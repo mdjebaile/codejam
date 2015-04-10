@@ -5,7 +5,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * This implementation is part of Atlassian interview screenings. It's not allowed to use external libraries.
+ * Full code hosted at https://github.com/mdjebaile/atlassian.git
+ * 
+ * This implementation is part of Atlassian interview screenings.
  * Compiled with Java 8. Like the question says "Reimplement this code so that its results will always be the same"
  * 
  * @author miguel.djebaile
